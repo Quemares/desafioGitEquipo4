@@ -1,2 +1,4 @@
 Hola mundo. Somos el equipo 4:
-Genesis Saez
+- Felipe Menares
+- Matias Fontalba
+- Genesis Saez
